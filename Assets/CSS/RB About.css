@@ -1,7 +1,7 @@
 main {
     width:900px;
     height: 1000px;
-    background-image: url("Assets/Pictures/RB Light.jpg");
+    background-image: url("../Pictures/RB Light.jpg");
     background-color: rgba(0, 0, 0, 0.4);
     background-blend-mode: darken;
     background-position: center;
